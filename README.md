@@ -6,10 +6,10 @@
 
 > **Mengubah perilaku pembayaran pelanggan menjadi insight risiko kredit yang dapat mendukung pengambilan keputusan menggunakan Python dan Machine Learning.**
 
-[Python](https://www.python.org/) ([image](https://img.shields.io/badge/Python-3.x-blue?logo=python))
-[Pandas](https://pandas.pydata.org/) ([image](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas))
-[Scikit-learn](https://scikit-learn.org/) ([image](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn))
-[XGBoost](https://xgboost.readthedocs.io/) ([image](https://img.shields.io/badge/XGBoost-Classification-337AB7))
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Classification-337AB7?logo=xgboost)](https://xgboost.readthedocs.io/)
 
 ---
 
